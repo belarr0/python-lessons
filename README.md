@@ -1,1 +1,1 @@
-# python-lessons
+# python-lessons by GoIT
